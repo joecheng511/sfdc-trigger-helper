@@ -20,6 +20,8 @@ By using this pattern, you can define each business logic as a sub-class of a tr
 
 In this way, the trigger helper will be clean to read and easier to manage.
 
+This pattern is handler-neutral, which means you can use your favorite trigger handler framework together with this solution.
+
 ## Get Start
 Copy the `TriggerHelper.cls`, `Triggerable.cls` and `Finishable.cls` under `/src/classes` to your Salesforce project and follow the `ExampleTrigger.trigger` for more details.
 

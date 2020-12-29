@@ -1,7 +1,7 @@
 /**
  * File name: ExampleTriggerHandler
  * Description: This is an example trigger handler which shows how to run the business logics defined in ExampleTriggerHelper.
-                This handler is framework-neutral, which means you can use your favourate SFDC trigger handler framework.
+                This handler is framework-neutral, which means you can use your favorite SFDC trigger handler framework.
  *
  *
  * Modification Log
